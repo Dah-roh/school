@@ -10,6 +10,6 @@ public class Staff {
     private String gender;
     private  String staffType;
     private String staffLevel;
-    private String staffDesignation;
+    private String designation;
     private double staffSalary;
 }
