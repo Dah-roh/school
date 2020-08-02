@@ -9,7 +9,7 @@ public class Staff {
     private Date dateOfBirth;
     private String gender;
     private  String staffType;
-    private String staffLevel;
-    private String designation;
+    private int staffLevel;
+    private String role;
     private double staffSalary;
 }
